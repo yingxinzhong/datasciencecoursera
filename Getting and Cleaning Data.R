@@ -39,9 +39,7 @@ activities <- read.table(file.path(dataPath, "activity_labels.txt"))
 colnames(activities) <- c("activityId", "activityLabel")
 
 
-##############################################################################
 # Step 1 - Merge the training and the test sets to create one data set
-##############################################################################
 
 # concatenate individual data tables to make single data table
 humanActivity <- rbind(
