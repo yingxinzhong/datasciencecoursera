@@ -1,4 +1,4 @@
-Getting and Cleaning Data - Course Project
+Getting and Cleaning Data Project
 This is the course project for the Getting and Cleaning Data Coursera course. R script called run_analysis.R that does the following:
 
 1. Merges the training and the test sets to create one data set.
